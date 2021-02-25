@@ -1,2 +1,0 @@
-# CCK_20210226_Vsetsu
-CCK_20210226_Vsetsu_CreationCreaterKit_Unity
